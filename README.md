@@ -1,8 +1,7 @@
-# BootDo 面向学习型的开源框架
+# 面向学习型的开源框架
 
-## 平台简介
-
-一群[]<a target="_blank" href="https://jq.qq.com/?_wv=1027&k=5ojKYFG"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="BootDo交流群" title="BootDo交流群"></a>
+## Cover:https://github.com/lcg0124/bootdo
+##一款很优秀的SrpingBoot学习模板
 
 
 BootDo是高效率，低封装，面向学习型，面向微服的**开源**Java EE开发框架。
